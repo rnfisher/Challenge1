@@ -6,6 +6,7 @@ TagManager:
   tags:
   - PickUp
   - Enemy
+  - Obstacle
   layers:
   - Default
   - TransparentFX
@@ -51,4 +52,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 642680485
+    locked: 0
+  - name: Obstacle
+    uniqueID: 1807947685
     locked: 0
